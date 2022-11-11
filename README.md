@@ -1,0 +1,2 @@
+# TesterBot
+Tests discord bot
