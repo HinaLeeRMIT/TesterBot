@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+      "eris": "^0.17.1"
+    },
+    "name": "TesterBot",
+    "version": "1.0.0",
+    "description": "Test bot creation",
+    "main": "index.js",
+    "scripts": {
+      "run": "npm i && node ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/HinaLeeRMIT/TesterBot"
+    },
+    "author": "HinaLeeRMIT",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/HinaLeeRMIT/TesterBot"
+    },
+    "homepage": "https://github.com/HinaLeeRMIT/TesterBot#readme"
+  }
